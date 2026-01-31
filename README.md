@@ -53,4 +53,4 @@ Contains the specific "Undelete" business logic:
 3.  Reconstructs the FAT chain linearly to restore file integrity.
 
 ---
-**Built with Borland C++ 3.1**
+**Built with Turbo C++**
